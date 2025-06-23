@@ -9,8 +9,8 @@ l= [1,2,3,4,5]
 # m=l.copy() # for copying
 # l.insert (1,33)
 
-m =[200,300,8000]
+# m =[200,300,8000]
 # l.extend(m) #concate the two lists 
-k=l+m
-print(k)
-print (l)
+# k=l+m
+# print(k)
+# print (l)
