@@ -13,7 +13,7 @@ class person:
     def info(self):
         print(f"{self.name} is a {self.occ}")
         
-a=person(self,"divya","senior dev")
+a=person("divya","senior dev")
 a.info()
 
 # a.name="divya"
