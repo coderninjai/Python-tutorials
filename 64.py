@@ -12,3 +12,5 @@ a=Math(5)
 print(a.num)
 a.addtonum(7)
 print(a.num)
+
+print(Math.add(39,3))
