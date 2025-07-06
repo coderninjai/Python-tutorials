@@ -7,5 +7,5 @@ class Employee:
         return i
     
 e=Employee()
-print(e.name)
-print(len(e))
+# print(e.name)
+# print(len(e))
